@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagen3-03-utaawase",
  "yomi": "かげんさんねんさんがつうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十八番・三題）",
+  "era": "嘉元3年（1305）3月",
+  "author": "未詳",
+  "desc": "寄花春・寄月恋・寄雲雑の三題による十八番の歌合。女房・新宰相・藤原範春・従三位親子・永福門院内侍・小兵衛督・生覚ら、伏見院・永福門院の周辺の歌人が詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
